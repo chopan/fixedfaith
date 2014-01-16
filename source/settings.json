@@ -9,8 +9,28 @@
     },
     {
       "variable": "background_image",
-      "label": "Background Image",
+      "label": "Background image",
       "description": "Adds a repeating background image"
+    },
+    {
+      "variable": "slider_1",
+      "label": "Slider Image 1",
+      "description": "Imagen de 900x400"
+    },
+    {
+      "variable": "slide_2",
+      "label": "Slider Image 2",
+      "description": "Imagen de 900x400"
+    },
+    {
+      "variable": "slide_3",
+      "label": "Slider Image 3",
+      "description": "Imagen de 900x400"
+    },
+    {
+      "variable": "slide_4",
+      "label": "Slider Image 4",
+      "description": "Imagen de 900x400"
     }
   ],
   "fonts": [
